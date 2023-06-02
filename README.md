@@ -6,3 +6,4 @@ https://www.ti.com/download/kbase/volt/volt_div3.htm   Voltage Divider Calculato
 
 https://flaviutamas.com/calc/electronics/dc-dc/boost Boost converter calculator
 
+https://groups.io/g/LTspice LTSpice Discussion Group, the encyclopedia of LTSpice
