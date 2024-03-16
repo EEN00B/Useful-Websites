@@ -12,3 +12,5 @@ https://fscdn.rohm.com/en/products/databook/applinote/common/how_to_use_ltspice_
 How to Use LTspice® Models----- Rohm Semiconductor
 
 https://youtu.be/ajcYYwoHF0g  -------- Adding Third-Party Models to LTspice IV
+
+https://wcalc.sourceforge.net/cgi-wcalc.html -------- Wcalc is a tool for the analysis and synthesis of transmission line structures and related components.
