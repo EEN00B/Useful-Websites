@@ -16,3 +16,6 @@ https://youtu.be/ajcYYwoHF0g  -------- Adding Third-Party Models to LTspice IV
 https://wcalc.sourceforge.net/cgi-wcalc.html -------- Wcalc is a tool for the analysis and synthesis of transmission line structures and related components.
 
 https://www.digikey.com.au/en/resources/conversion-calculators/conversion-calculator-capacitor-safety-discharge ------------Capacitor Safety Discharge Calculator
+
+
+https://tmi.yokogawa.com/au/solutions/products/power-analyzers/power-measurement-application-software/power-consumption-measuring-software/ ----- Yokogawa Power Consumption Measuring Software
