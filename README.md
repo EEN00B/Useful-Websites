@@ -21,3 +21,5 @@ https://tmi.yokogawa.com/au/solutions/products/power-analyzers/power-measurement
 
 https://www.monolithicpower.com/en/support/industry-information.html
 https://www.monolithicpower.com/en/support/webinars.html            ---------- MPS resources
+
+https://pages.rohm.com/rs/247-PYD-578/images/TWHB-03e.pdf ---- Rohm Buck layout guide
